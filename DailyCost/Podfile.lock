@@ -1,0 +1,43 @@
+PODS:
+  - AFNetworking (2.5.2):
+    - AFNetworking/NSURLConnection (= 2.5.2)
+    - AFNetworking/NSURLSession (= 2.5.2)
+    - AFNetworking/Reachability (= 2.5.2)
+    - AFNetworking/Security (= 2.5.2)
+    - AFNetworking/Serialization (= 2.5.2)
+    - AFNetworking/UIKit (= 2.5.2)
+  - AFNetworking/NSURLConnection (2.5.2):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/NSURLSession (2.5.2):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (2.5.2)
+  - AFNetworking/Security (2.5.2)
+  - AFNetworking/Serialization (2.5.2)
+  - AFNetworking/UIKit (2.5.2):
+    - AFNetworking/NSURLConnection
+    - AFNetworking/NSURLSession
+  - FMDB (2.5):
+    - FMDB/standard (= 2.5)
+  - FMDB/common (2.5)
+  - FMDB/standard (2.5):
+    - FMDB/common
+  - FSLineChart (0.1.7)
+  - MagicPie (1.1.1)
+
+DEPENDENCIES:
+  - AFNetworking (~> 2.0)
+  - FMDB (~> 2.5)
+  - FSLineChart (~> 0.1.6)
+  - MagicPie (~> 1.1.1)
+
+SPEC CHECKSUMS:
+  AFNetworking: fefbce9660acb17f48ae0011292d4da0f457bf36
+  FMDB: 96e8f1bcc1329e269330f99770ad4285d9003e52
+  FSLineChart: 1b8d3727e8feb323144126d381184bf1b15e6efc
+  MagicPie: 0cfe79ae6e312d64f6799e3c2ba146b26ba5c79c
+
+COCOAPODS: 0.36.0
